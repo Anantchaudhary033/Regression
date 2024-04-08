@@ -8,3 +8,4 @@ We have a dataset comprising salaries of individuals alongside their respective 
 # Variables
 Dependent Variable - Salary
 Independent Variable - YearsExperience
+ 
