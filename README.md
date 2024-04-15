@@ -9,18 +9,8 @@ We have a dataset comprising salaries of individuals alongside their respective 
 Dependent Variable - Salary
 Independent Variable - YearsExperience
 ------------------------------- 
-#Importing Libraries
--------------------------------
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-from pandas.core.common import random_state
-from sklearn.linear_model import LinearRegression
 
 # Dataset
--------------------------------
 df=pd.read_csv('Salary_Data.csv')
 df
 
