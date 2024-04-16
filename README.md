@@ -11,8 +11,9 @@ Independent Variable - YearsExperience
 ------------------------------- 
 
 # Dataset
-df=pd.read_csv('Salary_Data.csv')
-df
+The dataset was sourced from [Kaggle].
+
+
 
 
 
